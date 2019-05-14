@@ -1,0 +1,19 @@
+{
+  "name": "charan-casestudy",
+  "version": "1.0.0",
+  "description": "this service api endpoint reads json and generates csv file to download.",
+  "main": "index.js",
+  "scripts": {
+    "test": "pnm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charan31/charan-casestudy.git"
+  },
+  "author": "charan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/charan31/charan-casestudy/issues"
+  },
+  "homepage": "https://github.com/charan31/charan-casestudy#readme"
+}
